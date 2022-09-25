@@ -1,0 +1,3 @@
+E:/student/PRP_2022_2023/IT2/valce/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/student/PRP_2022_2023/IT2/valce/cmake-build-debug/CMakeFiles/valce.dir
+E:/student/PRP_2022_2023/IT2/valce/cmake-build-debug/CMakeFiles/rebuild_cache.dir

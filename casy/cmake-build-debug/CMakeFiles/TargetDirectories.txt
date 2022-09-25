@@ -1,0 +1,3 @@
+C:/studenti/2022_2023/PRP/IT2/P2/casy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/studenti/2022_2023/PRP/IT2/P2/casy/cmake-build-debug/CMakeFiles/casy.dir
+C:/studenti/2022_2023/PRP/IT2/P2/casy/cmake-build-debug/CMakeFiles/edit_cache.dir
